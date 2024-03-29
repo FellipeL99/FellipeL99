@@ -1,56 +1,40 @@
-### Olá! Eu sou o Luis Fellipe 👋
+### Hi there 👋 Sou Luis Fellipe!
+##### Resumo:
+Bem-vindo ao meu perfil no GitHub, onde minha paixão pela tecnologia se traduz em projetos de desenvolvimento inovadores. Sou um desenvolvedor | analista de Sistemas Júnior, apaixonado por criar soluções que tornam a vida mais fácil e divertida.
 
+###### Plataformas Diversificadas
+Desenvolvo soluções para uma variedade de plataformas e estou sempre explorando novas oportunidades e tecnologias nesse espaço.
 
-- 🔭 Buscando uma vaga na área da tecnologia
-- 🌱 C# e Javascript
-- 😄 Pronouns: Ele / Dele
+###### Tecnologias Atualizadas
+Acompanho de perto as tendências de desenvolvimento e incorporo as mais recentes ferramentas, bibliotecas e práticas recomendadas em meus projetos.
 
-###
+###### Aprendizado Contínuo
+Como um desenvolvedor júnior, estou em constante aprendizado e aprimoramento. Estou aberto a feedback e oportunidades de crescimento.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FellipeL99&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FellipeL99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Se você está interessado em colaborar, aprender ou apenas explorar projetos de desenvolvimento, siga meu perfil. Estou empolgado em compartilhar meu amor pela tecnologia, colaborar em projetos emocionantes.
 
-###
-
-<img align="right" height="150" src="https://global.discourse-cdn.com/nubank/original/4X/7/a/a/7aa1c6d6b121fffe849a7c3313c7f22036df184c.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="fellipealves20159@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+#### Linguagens
+<a href="https://github.com/FellipeL99/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeL99&langs_count=10"/>
   </a>
-  <a href="www.linkedin.com/in/luis-fellipe-almeida-alves-b6b4571b9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://github.com/FellipeL99/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FellipeL99&show_icons=true"/>
   </a>
-</div>
+  
+##### Habilidades principais:
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Win](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
-###
+##### Social e Blog:
+[![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee)](https://github.com/FellipeL99)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbercs)
+##### Contatos:
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=11986795372)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FellipeL99/FellipeL99/output/snake.svg" alt="Snake animation" />
-
-###
