@@ -13,28 +13,20 @@ Como um desenvolvedor júnior, estou em constante aprendizado e aprimoramento. E
 
 Se você está interessado em colaborar, aprender ou apenas explorar projetos de desenvolvimento, siga meu perfil. Estou empolgado em compartilhar meu amor pela tecnologia, colaborar em projetos emocionantes.
 
-#### Linguagens
-<a href="https://github.com/FellipeL99/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeL99&langs_count=10"/>
-  </a>
-  <a href="https://github.com/FellipeL99/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FellipeL99&show_icons=true"/>
-  </a>
+##
+
+ <div>
+  <a href="https://github.com/FellipeL99">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FellipeL99&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeL99&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
   
-##### Habilidades principais:
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Win](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-
-##### Social e Blog:
-[![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee)](https://github.com/FellipeL99)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbercs)
-##### Contatos:
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511986795372)
-
+  ##
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nando-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nando-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
