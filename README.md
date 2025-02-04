@@ -17,8 +17,8 @@ Se você está interessado em colaborar, aprender ou apenas explorar projetos de
 
  <div>
   <a href="https://github.com/FellipeL99">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FellipeL99&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeL99&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fellipeL99&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeL99&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   ##
@@ -27,6 +27,8 @@ Se você está interessado em colaborar, aprender ou apenas explorar projetos de
   <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nando-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Nando-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Nando-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Nando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nando-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
